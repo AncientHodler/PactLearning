@@ -1,6 +1,6 @@
 (module file
 
 
-    ; Here is a sample file too
+    ; Here is a sample file
     
 )
